@@ -1,0 +1,9 @@
+section {
+  width: 1700px;
+  height: 850px;
+  background-image: url("./images/изгибы_складки_ткань.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 200px 400px;
+  background-size: cover;
+}
